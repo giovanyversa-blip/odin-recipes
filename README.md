@@ -9,4 +9,6 @@
 
 Each one with the necessary ingredients and the necessary steps to make the recipe
 
+**[Click here to view the project!](https://giovanyversa-blip.github.io/odin-recipes/index.html)**
+
 Enjoy the meals!
