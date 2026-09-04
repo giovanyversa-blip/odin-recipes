@@ -1,2 +1,12 @@
 # odin-recipes
-Project about HTML and Recipes
+* Project about HTML and Recipes
+
+#### In this simple project made with html we have three recipes:
+
+1. Lasagna
+2. Noodles
+3. Meatballs
+
+Each one with the necessary ingredients and the necessary steps to make the recipe
+
+Enjoy the meals!
